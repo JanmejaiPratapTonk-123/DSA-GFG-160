@@ -1,7 +1,7 @@
 // Problem: Next Permutation of an Array in Lexicographical Order
 // Platform: GeeksforGeeks
 // Approach: Find the pivot, swap with the just larger element on the right, and sort the suffix.
-// Time Complexity: O(n)
+// Time Complexity: O(n log n)
 // Space Complexity: O(1)
 
 class Solution {
