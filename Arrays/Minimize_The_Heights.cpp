@@ -1,4 +1,4 @@
-// Problem: Minimize The Heights
+// Problem: Minimize The Heights 
 // Platform: GeeksforGeeks
 // Approach: Sorting and Greedy
 // Time Complexity: O(n log n)
